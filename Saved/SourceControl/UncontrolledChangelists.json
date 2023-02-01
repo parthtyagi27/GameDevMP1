@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/HealtPackBP.uasset",
+				"D:/Programs/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/HealthPackBP.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/EnemyBP.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/ProjectileBP.uasset",
+				"D:/Documents/UIUC/CS 415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/Shake.uasset"
+			]
+		}
+	]
+}
